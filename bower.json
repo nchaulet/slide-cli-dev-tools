@@ -1,0 +1,7 @@
+{
+  "name": "les-outils-cli-sans-poils-de-barbe-pour-faciliter-vos-devs",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}

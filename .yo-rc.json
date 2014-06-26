@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "les outils CLI \"sans poils de barbe\" pour faciliter vos dévs",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": false,
+    "githubUsername": "example_username",
+    "githubRepository": "example_repository"
+  }
+}

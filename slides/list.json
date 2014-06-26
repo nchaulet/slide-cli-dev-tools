@@ -1,0 +1,16 @@
+[
+    "index.md",
+    "intro.md",
+    [
+        "httpie-0-index.md",
+        "httpie-1-curl.md",
+        "httpie-2-httpie.md",
+        "httpie-3-httpiepro.md",
+        "httpie-4-example.md"
+    ],
+    [
+        "hub-0-index.md",
+        "hub-1-pro.md",
+        "hub-2-examples.md"
+    ]
+]
