@@ -2,5 +2,10 @@
 
 * Build system (Grunt/Gulp)
 * Generator (Yeoman)
-* API CLI client 
+* API CLI client
 * ...
+
+note:
+    Automate
+    Automate!!
+    API CLI client (hipchat, ...)

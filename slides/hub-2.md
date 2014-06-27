@@ -12,3 +12,8 @@ hub pull-request
 
 hub compare 1.0..2.0
 ```
+
+note:
+    DEMO TIME (babitch)
+    pull-request
+    clone
