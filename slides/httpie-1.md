@@ -1,3 +1,3 @@
-### Httpie - Curl
+### Curl
 
 ![curl](/img/sysadmin.jpg)

@@ -1,20 +1,23 @@
 [
     "index.md",
     [
-        "browsersync-0-index.md",
-        "browsersync-1-resume.md"
+        "browsersync-0.md",
+        "browsersync-1.md",
+        "browsersync-2.md",
+        "browsersync-3.md"
     ],
     [
-        "httpie-0-index.md",
-        "httpie-1-curl.md",
-        "httpie-2-httpie.md",
-        "httpie-3-httpiepro.md",
-        "httpie-4-example.md"
+        "httpie-0.md",
+        "httpie-1.md",
+        "httpie-2.md",
+        "httpie-3.md",
+        "httpie-4.md"
     ],
     [
-        "hub-0-index.md",
-        "hub-1-pro.md",
-        "hub-2-examples.md"
+        "hub-0.md",
+        "hub-1.md",
+        "hub-2.md"
     ],
-    "conclusion.md"
+    "conclusion.md",
+    "link.md"
 ]

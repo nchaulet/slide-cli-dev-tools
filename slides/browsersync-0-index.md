@@ -1,3 +1,0 @@
-## BrowserSync
-
-http://browsersync.io/
