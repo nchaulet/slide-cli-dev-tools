@@ -1,3 +1,3 @@
-## les outils CLI "sans poils de barbe"
+## les outils CLI &laquo; sans poils de barbe &raquo;
 ## pour faciliter vos dévs
 

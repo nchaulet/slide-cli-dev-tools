@@ -1,4 +1,4 @@
 ## Hub - pro
 
-* Intuitive clone
+* Intuitive clone/fork/pull-request/compare/...
 * Work with Github enterprise

@@ -1,6 +1,9 @@
 [
     "index.md",
-    "intro.md",
+    [
+        "browsersync-0-index.md",
+        "browsersync-1-resume.md"
+    ],
     [
         "httpie-0-index.md",
         "httpie-1-curl.md",
@@ -13,7 +16,5 @@
         "hub-1-pro.md",
         "hub-2-examples.md"
     ],
-    [
-        "browsersync-0-index.md"
-    ]
+    "conclusion.md"
 ]
